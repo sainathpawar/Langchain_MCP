@@ -59,7 +59,6 @@ Check out the YouTube tutorial for a **step-by-step walkthrough**:
 ## 💼 Connect with Me on LinkedIn  
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/sainath-pawar/)**  
 
----
 
 ## 🚀 References
 [Reference Langchain github](https://github.com/langchain-ai/langchain-mcp-adapters)  
