@@ -1,4 +1,3 @@
-Here's a **README.md** file for your project based on the provided code files. I've also included placeholders for your YouTube video link and LinkedIn profile—just replace them with the actual links.  
 
 ---
 
