@@ -48,17 +48,13 @@ python weather_server.py
 python client.py
 ```  
 
----
-
 ## 🎥 Watch the Full Tutorial  
 Check out the YouTube tutorial for a **step-by-step walkthrough**:  
 🔗 **[YouTube Video](https://youtu.be/sjEpclCirvI)**  
 📌 **Like, Share & Subscribe** for more AI content! 😊  
-```
 
 ## 💼 Connect with Me on LinkedIn  
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/sainath-pawar/)**  
-
 
 ## 🚀 References
 [Reference Langchain github](https://github.com/langchain-ai/langchain-mcp-adapters)  
